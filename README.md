@@ -5,7 +5,7 @@
 - 🔭 Building real-time, Bluetooth-controlled firing systems @ **IGNITE** (USA · remote)
 - 🛠 **Swift · SwiftUI · UIKit · Combine · Core Bluetooth · MVVM / TCA · Swift Concurrency**
 - ⚙️ Ship end-to-end: architecture → CI/CD (Fastlane, Xcode Cloud) → App Store release
-- 🌐 Portfolio: **[ammar.auraapps.online](https://ammarulhaq.me)**
+- 🌐 Portfolio: **[ammarulhaq.me](https://ammarulhaq.me)**
 - 📄 CV: **[github.com/ammarulhaqn8n-rgb/cv](https://github.com/ammarulhaqn8n-rgb/cv)**
 - 💼 [LinkedIn](https://www.linkedin.com/in/ammar-ul-haq-045051a1/) · ✍️ [Medium](https://medium.com/@amarulhak) · 📫 amarulhak@gmail.com
 
